@@ -17,7 +17,7 @@ var standardMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voy
     maxZoom: 20
 });
 
-var grayMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+var grayMap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_479m_1_94b6ec220ff7583ce7c9d4f7', {
     attribution: '&copy; OpenStreetMap &copy; CARTO',
     subdomains: 'abcd',
     maxZoom: 20
