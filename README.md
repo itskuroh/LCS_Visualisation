@@ -1,6 +1,6 @@
 ## Lion City Soundscapes Dataset Visualisation
 ### NTU Final Year Project 2026/27
-This is a copy of the web application that visualises characteristic soundscapes of Singapore on an interactive Leaflet map done by the previous graduating batch, Abigale Tan Xian Pei. This is used as an supplement to my result findings as part of my Final Year Project (FYP) requirement at NTU. This data includes pre-existing data from 'Lion City Soundscapes'. This repository comprises of the code used to develop the web application. The web application has been deployed on GitHub Pages and can be viewed live at https://abbytxp.github.io/LCS_Visualisation/.
+This is a copy of the web application that visualises characteristic soundscapes of Singapore on an interactive Leaflet map done by the previous graduating batch, Abigale Tan Xian Pei. This is used as an supplement to my result findings as part of my Final Year Project (FYP) requirement at NTU. This data includes pre-existing data from 'Lion City Soundscapes'. This repository comprises of the code used to develop the web application. The web application has been deployed on GitHub Pages and can be viewed live at https://itskuroh.github.io/LCS_Visualisation/.
 
 #### Building & Deployment 
 - Ensure that "Source" is "deployed from "branch"
